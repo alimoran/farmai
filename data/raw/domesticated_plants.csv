@@ -1,0 +1,185 @@
+Plant,Category
+Apple ,Fruit Trees
+Asian pear,Fruit Trees
+Loquat ,Fruit Trees
+Commonmedlar,Fruit Trees
+Pear,Fruit Trees
+Quince,Fruit Trees
+Citron,Fruit Trees
+Grapefruit,Fruit Trees
+Lemon,Fruit Trees
+Lime,Fruit Trees
+Orange,Fruit Trees
+Pomelo,Fruit Trees
+Almond,Fruit Trees
+Cashew,Fruit Trees
+Chestnut,Fruit Trees
+Hazelnut,Fruit Trees
+Macadamia,Fruit Trees
+Pecan ,Fruit Trees
+Pistachio,Fruit Trees
+Walnut,Fruit Trees
+Açaí-palm ,Fruit Trees
+American-oil palm,Fruit Trees
+Apricot,Fruit Trees
+Babacu,Fruit Trees
+Banana,Fruit Trees
+Breadfruit,Fruit Trees
+Calabash,Fruit Trees
+Cherry,Fruit Trees
+Cocopalm,Fruit Trees
+Durian ,Fruit Trees
+Ensete,Fruit Trees
+Fig,Fruit Trees
+Ice-creambean,Fruit Trees
+Jackfruit,Fruit Trees
+Mango,Fruit Trees
+Panama-hat palm,Fruit Trees
+Papaya ,Fruit Trees
+Passionfruit,Fruit Trees
+PeachandNectarine,Fruit Trees
+Peachpalm ,Fruit Trees
+Plum,Fruit Trees
+Sapodilla,Fruit Trees
+Tucuma,Fruit Trees
+Barley,Cereals
+Fingermillet,Cereals
+Fonio,Cereals
+Foxtailmillet,Cereals
+Littlebarley ,Cereals
+Maize ,Cereals
+Maygrass ,Cereals
+Pearlmillet,Cereals
+Prosomillet,Cereals
+Oats,Cereals
+Rice,Cereals
+Rye,Cereals
+Sorghum,Cereals
+Spelt,Cereals
+Teff,Cereals
+Triticale,Cereals
+Wheat,Cereals
+Breadwheat,Cereals
+PastaorDurumwheat ,Cereals
+Einkornwheat ,Cereals
+Amaranth,Cereals
+Buckwheat,Cereals
+Job'stears,Cereals
+Knotweedbristlegrass,Cereals
+Pitseedgoosefoot,Cereals
+Quinoa,Cereals
+Sunflower,Cereals
+Marshelder,Cereals
+Beans ,Legumes
+Azukibean,Legumes
+Black-eyedpea,Legumes
+Chickpea,Legumes
+Commonbean ,Legumes
+Lentil ,Legumes
+Velvetbean ,Legumes
+Mothbean,Legumes
+Mungbean ,Legumes
+Pea,Legumes
+Peanut,Legumes
+Jicama,Legumes
+Aggregateddrupelet ,Sweet Small-Plant Fruits
+Raspberry,Sweet Small-Plant Fruits
+Blackberry,Sweet Small-Plant Fruits
+True berries,Sweet Small-Plant Fruits
+Blueberry,Sweet Small-Plant Fruits
+Cranberry,Sweet Small-Plant Fruits
+Huckleberry,Sweet Small-Plant Fruits
+Other,Sweet Small-Plant Fruits
+Currant,Sweet Small-Plant Fruits
+Grape,Sweet Small-Plant Fruits
+Melon ,Sweet Small-Plant Fruits
+Pineapple,Sweet Small-Plant Fruits
+Strawberry,Sweet Small-Plant Fruits
+Avocado,Sweet Small-Plant Fruits
+Non-sweet small-plant fruits,Vegetables
+Eggplant,Vegetables
+Okra,Vegetables
+Peppers,Vegetables
+Squash ,Vegetables
+Winter squash,Vegetables
+Pumpkin,Vegetables
+Summer squash,Vegetables
+Zucchini,Vegetables
+Gourds,Vegetables
+Tomato,Vegetables
+Non-starchy,Root Vegetables
+Beet,Root Vegetables
+Carrot,Root Vegetables
+Parsnip,Root Vegetables
+Radish,Root Vegetables
+Turnip,Root Vegetables
+Starchy,Root Vegetables
+Cassava,Root Vegetables
+Potato,Root Vegetables
+Sweet potato,Root Vegetables
+Taro,Root Vegetables
+Yam,Root Vegetables
+Ube,Root Vegetables
+Allspice,Herbs and Spices
+Basil,Herbs and Spices
+Cinnamon,Herbs and Spices
+Coriander ,Herbs and Spices
+Cumin ,Herbs and Spices
+Jasmine ,Herbs and Spices
+Lemongrass ,Herbs and Spices
+Nutmeg ,Herbs and Spices
+Oregano,Herbs and Spices
+Parsley ,Herbs and Spices
+Peppermint,Herbs and Spices
+Rosemary ,Herbs and Spices
+Saffron ,Herbs and Spices
+Spearmint,Herbs and Spices
+Thyme ,Herbs and Spices
+Wintergreen,Herbs and Spices
+Olive ,Oil-producing Plants
+Peanut ,Oil-producing Plants
+Soybean ,Oil-producing Plants
+Alfalfa,Commodities
+Clover,Commodities
+Canola,Oil-producing Plants
+Olive,Oil-producing Plants
+Bottle gourd,Utility Plants
+Belladonna,Psychoactive Plants
+Cannabis ,Psychoactive Plants
+Chocolate ,Psychoactive Plants
+Coffee ,Psychoactive Plants
+Cola,Psychoactive Plants
+Opium poppy,Psychoactive Plants
+Quinine,Psychoactive Plants
+Tea ,Psychoactive Plants
+Tobacco,Psychoactive Plants
+Cannabis ,Fiber Plants
+Cotton,Fiber Plants
+Flax,Fiber Plants
+Henequen ,Fiber Plants
+Jute,Fiber Plants
+Kenaf,Fiber Plants
+Manila hemp,Fiber Plants
+Aloe vera,Medicinal Plants
+Cannabis,Medicinal Plants
+Chamomile,Medicinal Plants
+Coca,Medicinal Plants
+Daisy,Medicinal Plants
+Ginkgo,Medicinal Plants
+Ginseng,Medicinal Plants
+Hoodia,Medicinal Plants
+Jasmine,Medicinal Plants
+Lavender,Medicinal Plants
+Lemon balm,Medicinal Plants
+Lotus,Medicinal Plants
+Marigold,Medicinal Plants
+Milk thistle,Medicinal Plants
+Moringa,Medicinal Plants
+Opium Poppy,Medicinal Plants
+Peppermint,Medicinal Plants
+Rosemary,Medicinal Plants
+Sage,Medicinal Plants
+San pedro cactus,Medicinal Plants
+Tea tree,Medicinal Plants
+Houseplants,Ornamental Plants
+Landscaping ,Ornamental Plants
